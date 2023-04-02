@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/session-19-longform-activity-TheRoyalMuffinMan/static/css/main.83e26138.css",
+    "main.js": "/session-19-longform-activity-TheRoyalMuffinMan/static/js/main.d89456ed.js",
+    "static/js/787.c3abcb2d.chunk.js": "/session-19-longform-activity-TheRoyalMuffinMan/static/js/787.c3abcb2d.chunk.js",
+    "index.html": "/session-19-longform-activity-TheRoyalMuffinMan/index.html",
+    "main.83e26138.css.map": "/session-19-longform-activity-TheRoyalMuffinMan/static/css/main.83e26138.css.map",
+    "main.d89456ed.js.map": "/session-19-longform-activity-TheRoyalMuffinMan/static/js/main.d89456ed.js.map",
+    "787.c3abcb2d.chunk.js.map": "/session-19-longform-activity-TheRoyalMuffinMan/static/js/787.c3abcb2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83e26138.css",
+    "static/js/main.d89456ed.js"
+  ]
+}
